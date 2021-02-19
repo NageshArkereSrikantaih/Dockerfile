@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER NAGESH ARKERE SRIKANTAIAH
+MAINTAINER NAGESH ARKERE SRIKANTAIAH1
 RUN yum install -y httpd \
     zip \
     unzip
